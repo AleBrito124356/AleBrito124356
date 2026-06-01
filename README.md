@@ -1,16 +1,28 @@
-## Hi there 👋
+# Alejandro Brito
 
-<!--
-**AleBrito124356/AleBrito124356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack e integrador de IA, con base en Panamá.
 
-Here are some ideas to get you started:
+Construyo piezas concretas que mueven una métrica concreta: MVPs, CRMs, ERPs
+y agentes de IA para fundadores y empresas que valoran el detalle.
+Sin maquetas, sin demos — software en producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[alejandrobrito.dev](https://alejandrobrito.dev)** · alejandrobritoolivera@gmail.com
+
+---
+
+### En qué trabajo
+
+| Proyecto | Qué es |
+|----------|--------|
+| **Morph** | SaaS de migración de bases de datos asistida por IA |
+| **Norden** | Administración de propiedades con copiloto de IA, para el mercado panameño |
+| **SIMANLLA** | ERP de mantenimiento y llamadas para Elevadores Goldstar |
+| **Card Control** | Control de tarjetas corporativas para Castro & Castro |
+
+### Stack
+
+TypeScript · React · Next.js · Node · PostgreSQL · Supabase · Three.js · Tailwind · Cloudflare · Claude & OpenAI APIs
+
+---
+
+¿Un problema que resolver con software o IA? **[Hablemos →](https://alejandrobrito.dev/#contact)**
