@@ -4,7 +4,7 @@ Desarrollador full-stack e integrador de IA, con base en Panamá.
 
 Construyo piezas concretas que mueven una métrica concreta: MVPs, CRMs, ERPs
 y agentes de IA para fundadores y empresas que valoran el detalle.
-Sin maquetas, sin demos — software en producción.
+Sin maquetas, sin demos solo software en producción.
 
 **[alejandrobrito.dev](https://alejandrobrito.dev)** · alejandrobritoolivera@gmail.com
 
