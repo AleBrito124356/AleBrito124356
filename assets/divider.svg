@@ -1,0 +1,17 @@
+<svg width="1200" height="22" viewBox="0 0 1200 22" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="11" x2="588" y2="11" stroke="#1C2A44" stroke-width="1"/>
+  <line x1="612" y1="11" x2="1200" y2="11" stroke="#1C2A44" stroke-width="1"/>
+  <rect x="-240" y="10" width="240" height="2" rx="1" fill="url(#sweep)">
+    <animate attributeName="x" values="-240;1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="596" y="7" width="8" height="8" stroke="#3B82F6" stroke-width="1.5" fill="#0A0D14" transform="rotate(45 600 11)">
+    <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

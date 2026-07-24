@@ -1,0 +1,55 @@
+<svg width="585" height="260" viewBox="0 0 585 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Morph — migraciones de bases de datos asistidas por IA, en vivo">
+  <defs>
+    <linearGradient id="accentM" x1="0" y1="0" x2="585" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="glowM" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#8B5CF6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardM"><rect width="585" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardM)">
+    <rect width="585" height="260" fill="#0A0D14"/>
+    <circle cx="540" cy="10" r="190" fill="url(#glowM)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="28" y="26" width="46" height="46" rx="12" fill="url(#accentM)"/>
+    <text x="51" y="59" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">M</text>
+
+    <text x="90" y="49" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="25" font-weight="700" fill="#F1F5F9">Morph</text>
+    <text x="90" y="69" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#64748B">morph-zeta.vercel.app</text>
+
+    <rect x="479" y="30" width="76" height="26" rx="13" fill="#0A1F12" stroke="#14532D"/>
+    <circle cx="496" cy="43" r="4" fill="#22C55E">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="508" y="48" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#4ADE80">LIVE</text>
+
+    <text x="28" y="112" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14.5" fill="#94A3B8">Migraciones de bases de datos asistidas por IA — análisis del</text>
+    <text x="28" y="134" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14.5" fill="#94A3B8">esquema, cotización fija y artefactos listos para ejecutar.</text>
+
+    <g font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="12" font-weight="600">
+      <rect x="28" y="164" width="92" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="74" y="180" text-anchor="middle" fill="#A5B4FC">Next.js 15</text>
+      <rect x="128" y="164" width="70" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="163" y="180" text-anchor="middle" fill="#A5B4FC">Prisma</text>
+      <rect x="206" y="164" width="66" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="239" y="180" text-anchor="middle" fill="#A5B4FC">Stripe</text>
+      <rect x="280" y="164" width="94" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="327" y="180" text-anchor="middle" fill="#A5B4FC">Claude API</text>
+    </g>
+
+    <line x1="28" y1="212" x2="557" y2="212" stroke="#141E33"/>
+    <text x="28" y="238" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13" fill="#526581">SaaS · migraciones sin miedo</text>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 5 0; 0 0" dur="1.8s" repeatCount="indefinite"/>
+      <text x="557" y="238" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14" font-weight="700" fill="#A78BFA">Ver en vivo →</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="584" height="259" rx="15.5" stroke="#1E293B"/>
+</svg>
