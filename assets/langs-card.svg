@@ -1,0 +1,66 @@
+<svg width="495" height="200" viewBox="0 0 495 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lenguajes más usados por Alejandro Brito">
+  <rect width="495" height="200" rx="14" fill="#0A0D14"/>
+  <text x="25" y="36" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">Lenguajes más usados</text>
+  <clipPath id="bar"><rect x="25" y="54" width="445.0" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25.0" y="54" width="299.4" height="10" fill="#3572A5"/>
+    <rect x="323.4" y="54" width="67.3" height="10" fill="#3178c6"/>
+    <rect x="389.7" y="54" width="49.7" height="10" fill="#e34c26"/>
+    <rect x="438.3" y="54" width="17.8" height="10" fill="#663399"/>
+    <rect x="455.2" y="54" width="12.4" height="10" fill="#f1e05a"/>
+    <rect x="466.5" y="54" width="3.3" height="10" fill="#89e051"/>
+    <rect x="468.8" y="54" width="1.7" height="10" fill="#384d54"/>
+    <rect x="469.5" y="54" width="1.5" height="10" fill="#427819"/>
+    <rect x="469.9" y="54" width="445.0" height="10" fill="#1E293B"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+    <circle cx="30" cy="91" r="5" fill="#3572A5"/>
+    <text x="45" y="96" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Python</text>
+    <text x="200" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">67.1%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
+    <circle cx="30" cy="115" r="5" fill="#3178c6"/>
+    <text x="45" y="120" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">TypeScript</text>
+    <text x="200" y="120" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">14.9%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
+    <circle cx="30" cy="139" r="5" fill="#e34c26"/>
+    <text x="45" y="144" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">HTML</text>
+    <text x="200" y="144" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">10.9%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
+    <circle cx="30" cy="163" r="5" fill="#663399"/>
+    <text x="45" y="168" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">CSS</text>
+    <text x="200" y="168" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">3.8%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
+    <circle cx="265" cy="91" r="5" fill="#f1e05a"/>
+    <text x="280" y="96" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">JavaScript</text>
+    <text x="435" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">2.6%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+    <circle cx="265" cy="115" r="5" fill="#89e051"/>
+    <text x="280" y="120" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Shell</text>
+    <text x="435" y="120" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">0.5%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
+    <circle cx="265" cy="139" r="5" fill="#384d54"/>
+    <text x="280" y="144" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Dockerfile</text>
+    <text x="435" y="144" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">0.2%</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/>
+    <circle cx="265" cy="163" r="5" fill="#427819"/>
+    <text x="280" y="168" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Makefile</text>
+    <text x="435" y="168" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">0.1%</text>
+  </g>
+  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-07-24</text>
+  <rect x="0.5" y="0.5" width="494" height="199" rx="13.5" stroke="#1E293B"/>
+</svg>

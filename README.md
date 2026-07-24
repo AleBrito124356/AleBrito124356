@@ -19,16 +19,12 @@
 ## ⚡ El dashboard
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=AleBrito124356&show_icons=true&include_all_commits=true&locale=es&rank_icon=github&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8&ring_color=3B82F6" alt="Estadísticas de GitHub"/>
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleBrito124356&layout=compact&langs_count=8&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8" alt="Lenguajes más usados"/>
+  <img width="49%" src="assets/stats-card.svg" alt="Estadísticas de GitHub"/>
+  <img width="49%" src="assets/langs-card.svg" alt="Lenguajes más usados"/>
 </div>
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AleBrito124356&locale=es&background=0A0D14&border=1E293B&border_radius=12&ring=3B82F6&fire=60A5FA&currStreakNum=F1F5F9&currStreakLabel=60A5FA&sideNums=F1F5F9&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="Racha de contribuciones"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleBrito124356&theme=algolia&no-frame=true&no-bg=true&row=1&column=8&margin-w=8&margin-h=8" alt="Trofeos de GitHub" width="100%"/>
 </div>
 <br/>
 <div align="center">
@@ -66,16 +62,16 @@ Todo funciona con la **[API gratuita de NVIDIA NIM](https://build.nvidia.com)** 
 Cada repo trae README con diagramas, licencia MIT, `.env.example` y código sin stubs.
 
 <p align="center">
-  <a href="https://github.com/AleBrito124356/nim-agent-lab"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=nim-agent-lab&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="nim-agent-lab"/></a>
-  <a href="https://github.com/AleBrito124356/rag-blueprints"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=rag-blueprints&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="rag-blueprints"/></a>
+  <a href="https://github.com/AleBrito124356/nim-agent-lab"><img width="49%" src="assets/pin-nim-agent-lab.svg" alt="nim-agent-lab"/></a>
+  <a href="https://github.com/AleBrito124356/rag-blueprints"><img width="49%" src="assets/pin-rag-blueprints.svg" alt="rag-blueprints"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AleBrito124356/langgraph-agent-flows"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=langgraph-agent-flows&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="langgraph-agent-flows"/></a>
-  <a href="https://github.com/AleBrito124356/mcp-server-cookbook"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=mcp-server-cookbook&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="mcp-server-cookbook"/></a>
+  <a href="https://github.com/AleBrito124356/langgraph-agent-flows"><img width="49%" src="assets/pin-langgraph-agent-flows.svg" alt="langgraph-agent-flows"/></a>
+  <a href="https://github.com/AleBrito124356/mcp-server-cookbook"><img width="49%" src="assets/pin-mcp-server-cookbook.svg" alt="mcp-server-cookbook"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AleBrito124356/llm-eval-toolkit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=llm-eval-toolkit&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="llm-eval-toolkit"/></a>
-  <a href="https://github.com/AleBrito124356/recetas-ia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleBrito124356&repo=recetas-ia&locale=es&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0A0D14&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&description_lines_count=2" alt="recetas-ia"/></a>
+  <a href="https://github.com/AleBrito124356/llm-eval-toolkit"><img width="49%" src="assets/pin-llm-eval-toolkit.svg" alt="llm-eval-toolkit"/></a>
+  <a href="https://github.com/AleBrito124356/recetas-ia"><img width="49%" src="assets/pin-recetas-ia.svg" alt="recetas-ia"/></a>
 </p>
 
 <details>

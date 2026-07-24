@@ -1,0 +1,14 @@
+<svg width="585" height="150" viewBox="0 0 585 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Repositorio llm-eval-toolkit">
+  <rect width="585" height="150" rx="14" fill="#0A0D14"/>
+  <text x="25" y="38" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">llm-eval-toolkit</text>
+  <g font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif">
+    <text x="527" y="38" text-anchor="end" font-size="14" fill="#FBBF24">★</text>
+    <text x="560" y="38" text-anchor="end" font-size="14" font-weight="700" fill="#94A3B8">2</text>
+  </g>
+  <text x="25" y="68" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#94A3B8">Prompt regression testing and LLM evaluation harness — YAML suites,</text>
+  <text x="25" y="89" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#94A3B8">LLM-as-judge, pairwise A/B, RAG metrics, HTML reports, CI-ready</text>
+  <circle cx="31" cy="121" r="5" fill="#3572A5"/>
+  <text x="44" y="126" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="12.5" fill="#64748B">Python</text>
+  <text x="560" y="126" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-07-24</text>
+  <rect x="0.5" y="0.5" width="584" height="149" rx="13.5" stroke="#1E293B"/>
+</svg>
