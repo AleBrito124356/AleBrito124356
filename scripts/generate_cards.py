@@ -100,7 +100,7 @@ def stats_card(user, today):
         ("Contribuciones — último año", total),
         ("Commits — último año", c["totalCommitContributions"]),
         ("Repos públicos", user["repositories"]["totalCount"]),
-        ("Repos de IA open source", 47),
+        ("Repos de IA open source", 52),
         ("Productos en producción", 2),
     ]
     ring_pct = min(1.0, total / 500)

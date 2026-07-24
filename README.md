@@ -55,7 +55,7 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤖 Open source — 47 repos de IA listos para ejecutar
+## 🤖 Open source — 52 repos de IA listos para ejecutar
 
 Agentes de IA de todo tipo, RAG, fine-tuning, infraestructura de LLMs, automatización y plantillas.
 Todo funciona con la **[API gratuita de NVIDIA NIM](https://build.nvidia.com)** (endpoint compatible con OpenAI) o modelos locales con Ollama.
@@ -75,8 +75,19 @@ Cada repo trae README con diagramas, licencia MIT, `.env.example` y código sin 
 </p>
 
 <details>
-<summary><b>📚 Ver el catálogo completo — 47 repos por categoría</b></summary>
+<summary><b>📚 Ver el catálogo completo — 52 repos por categoría</b></summary>
 <br/>
+
+#### Servidores MCP — superpoderes para tu agente
+
+| Repo | Qué hace |
+|---|---|
+| [mcp-decision-lab](https://github.com/AleBrito124356/mcp-decision-lab) | Decisiones estructuradas: matrices ponderadas, scoring por criterio y análisis de sensibilidad con recomendación defendible |
+| [mcp-devils-advocate](https://github.com/AleBrito124356/mcp-devils-advocate) | Estresa el razonamiento del agente: abogado del diablo, premortem, auditoría de supuestos y steelman como protocolos exigidos |
+| [mcp-secret-sentinel](https://github.com/AleBrito124356/mcp-secret-sentinel) | Escanea código en busca de secretos expuestos (keys, tokens, claves privadas, alta entropía) con reportes siempre redactados |
+| [mcp-git-historian](https://github.com/AleBrito124356/mcp-git-historian) | Arqueología git: hotspots de churn, blame, bus factor y forense de commits sobre cualquier repo local |
+| [mcp-memory-vault](https://github.com/AleBrito124356/mcp-memory-vault) | Memoria persistente para cualquier agente: hechos con namespace, tags, TTL y búsqueda full-text SQLite FTS5 |
+| [mcp-server-cookbook](https://github.com/AleBrito124356/mcp-server-cookbook) | 5 servidores MCP listos (SQL, web, knowledge base, filesystem, REST) con configs para Claude |
 
 #### Agentes de IA — patrones y frameworks
 
