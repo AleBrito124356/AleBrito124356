@@ -6,7 +6,7 @@
   <a href="https://alejandrobrito.dev"><img src="https://img.shields.io/badge/Portfolio-alejandrobrito.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0D14" alt="Portfolio"/></a>&nbsp;
   <a href="mailto:alejandrobritoolivera@gmail.com"><img src="https://img.shields.io/badge/Email-escríbeme-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0D14" alt="Email"/></a>&nbsp;
   <a href="https://morph-zeta.vercel.app"><img src="https://img.shields.io/badge/Morph-EN_VIVO-8B5CF6?style=for-the-badge&labelColor=0A0D14" alt="Morph en vivo"/></a>&nbsp;
-  <a href="https://norden-iota.vercel.app"><img src="https://img.shields.io/badge/Norden-EN_VIVO-2563EB?style=for-the-badge&labelColor=0A0D14" alt="Norden en vivo"/></a>
+  <a href="https://github.com/AleBrito124356/mcp-secret-sentinel"><img src="https://img.shields.io/badge/Servidores_MCP-5_open_source-2563EB?style=for-the-badge&labelColor=0A0D14" alt="Servidores MCP open source"/></a>
 </p>
 
 <p align="center">
@@ -44,11 +44,12 @@
 
 <p align="center">
   <a href="https://morph-zeta.vercel.app"><img src="assets/morph-card.svg" width="49%" alt="Morph — migraciones de bases de datos asistidas por IA"/></a>
-  <a href="https://norden-iota.vercel.app"><img src="assets/norden-card.svg" width="49%" alt="Norden — administración de propiedades con copiloto de IA"/></a>
+  <a href="https://github.com/AleBrito124356/mcp-secret-sentinel"><img src="assets/sentinel-card.svg" width="49%" alt="mcp-secret-sentinel — escanea código en busca de secretos expuestos"/></a>
 </p>
 
 | Proyecto privado | Qué es |
 |---|---|
+| **Norden** | Administración de propiedades (PH) en Panamá con copiloto de IA — Next.js · FastAPI · PostgreSQL |
 | **SIMANLLA / FENIX** | ERP de mantenimiento y call-center para Elevadores Goldstar — React 19 · PHP · Fenris IA |
 | **Card Control** | Control de tarjetas corporativas para Castro & Castro — Next.js · MySQL |
 | **CUSTOUTP** | Sistema de gestión de incidencias para la UTP — Next.js · Supabase · Expo |

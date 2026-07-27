@@ -1,0 +1,56 @@
+<svg width="585" height="260" viewBox="0 0 585 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mcp-secret-sentinel — escanea código en busca de secretos expuestos, open source">
+  <defs>
+    <linearGradient id="accentS" x1="0" y1="0" x2="585" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glowS" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#2563EB" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardS"><rect width="585" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardS)">
+    <rect width="585" height="260" fill="#0A0D14"/>
+    <circle cx="540" cy="10" r="190" fill="url(#glowS)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="28" y="26" width="46" height="46" rx="12" fill="url(#accentS)"/>
+    <path d="M51 37l11 4v9c0 6-4.6 11.2-11 12.8C44.6 61.2 40 56 40 50v-9l11-4z" fill="#0A0D14" opacity="0.85"/>
+    <path d="M46.5 49.5l3.2 3.2 6-6.2" stroke="#7DD3FC" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+    <text x="90" y="49" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="25" font-weight="700" fill="#F1F5F9">Secret Sentinel</text>
+    <text x="90" y="69" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#64748B">mcp-secret-sentinel</text>
+
+    <rect x="443" y="30" width="112" height="26" rx="13" fill="#0C1A2E" stroke="#1D4ED8"/>
+    <circle cx="460" cy="43" r="4" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="472" y="48" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#7DD3FC">OPEN SOURCE</text>
+
+    <text x="28" y="112" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14.5" fill="#94A3B8">Servidor MCP que escanea código en busca de secretos expuestos</text>
+    <text x="28" y="134" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14.5" fill="#94A3B8">antes de que tu agente los commitee. La salida siempre va censurada.</text>
+
+    <g font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="12" font-weight="600">
+      <rect x="28" y="164" width="72" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="64" y="180" text-anchor="middle" fill="#93C5FD">Python</text>
+      <rect x="108" y="164" width="88" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="152" y="180" text-anchor="middle" fill="#93C5FD">MCP SDK</text>
+      <rect x="204" y="164" width="94" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="251" y="180" text-anchor="middle" fill="#93C5FD">65 tests</text>
+      <rect x="306" y="164" width="60" height="24" rx="12" fill="#0F1626" stroke="#1D2A44"/>
+      <text x="336" y="180" text-anchor="middle" fill="#93C5FD">MIT</text>
+    </g>
+
+    <line x1="28" y1="212" x2="557" y2="212" stroke="#141E33"/>
+    <text x="28" y="238" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13" fill="#526581">Seguridad para agentes de IA</text>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 5 0; 0 0" dur="1.8s" repeatCount="indefinite"/>
+      <text x="557" y="238" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14" font-weight="700" fill="#7DD3FC">Ver el repo →</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="584" height="259" rx="15.5" stroke="#1E293B"/>
+</svg>
