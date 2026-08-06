@@ -11,7 +11,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
     <circle cx="31" cy="87" r="4" fill="#3B82F6"/>
     <text x="46" y="92" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14" fill="#94A3B8">Contribuciones — último año</text>
-    <text x="322" y="92" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#F1F5F9">472</text>
+    <text x="322" y="92" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#F1F5F9">482</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
@@ -40,12 +40,12 @@
   <g transform="rotate(-90 407 105)">
     <circle cx="407" cy="105" r="48" stroke="#1E293B" stroke-width="9"/>
     <circle cx="407" cy="105" r="48" stroke="#3B82F6" stroke-width="9" stroke-linecap="round"
-            stroke-dasharray="284.7 301.6" stroke-dashoffset="284.7">
-      <animate attributeName="stroke-dashoffset" from="284.7" to="0" dur="1.4s" fill="freeze"/>
+            stroke-dasharray="290.7 301.6" stroke-dashoffset="290.7">
+      <animate attributeName="stroke-dashoffset" from="290.7" to="0" dur="1.4s" fill="freeze"/>
     </circle>
   </g>
-  <text x="407" y="103" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="26" font-weight="700" fill="#F1F5F9">472</text>
+  <text x="407" y="103" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="26" font-weight="700" fill="#F1F5F9">482</text>
   <text x="407" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="10" fill="#64748B">contribuciones</text>
-  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-08-05</text>
+  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-08-06</text>
   <rect x="0.5" y="0.5" width="494" height="199" rx="13.5" stroke="#1E293B"/>
 </svg>
