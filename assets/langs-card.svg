@@ -3,13 +3,13 @@
   <text x="25" y="36" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">Lenguajes más usados</text>
   <clipPath id="bar"><rect x="25" y="54" width="445.0" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.0" y="54" width="317.4" height="10" fill="#3572A5"/>
-    <rect x="341.4" y="54" width="69.2" height="10" fill="#3178c6"/>
-    <rect x="409.6" y="54" width="37.2" height="10" fill="#e34c26"/>
-    <rect x="445.8" y="54" width="13.8" height="10" fill="#663399"/>
-    <rect x="458.6" y="54" width="9.6" height="10" fill="#f1e05a"/>
-    <rect x="467.2" y="54" width="2.7" height="10" fill="#89e051"/>
-    <rect x="468.8" y="54" width="1.8" height="10" fill="#384d54"/>
+    <rect x="25.0" y="54" width="298.5" height="10" fill="#3572A5"/>
+    <rect x="322.5" y="54" width="65.1" height="10" fill="#3178c6"/>
+    <rect x="386.6" y="54" width="61.2" height="10" fill="#e34c26"/>
+    <rect x="446.7" y="54" width="13.5" height="10" fill="#663399"/>
+    <rect x="459.3" y="54" width="9.0" height="10" fill="#f1e05a"/>
+    <rect x="467.3" y="54" width="2.6" height="10" fill="#89e051"/>
+    <rect x="468.9" y="54" width="1.7" height="10" fill="#384d54"/>
     <rect x="469.6" y="54" width="1.3" height="10" fill="#427819"/>
     <rect x="470.0" y="54" width="445.0" height="10" fill="#1E293B"/>
   </g>
@@ -17,31 +17,31 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
     <circle cx="30" cy="91" r="5" fill="#3572A5"/>
     <text x="45" y="96" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Python</text>
-    <text x="200" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">71.1%</text>
+    <text x="200" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">66.8%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
     <circle cx="30" cy="115" r="5" fill="#3178c6"/>
     <text x="45" y="120" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">TypeScript</text>
-    <text x="200" y="120" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">15.3%</text>
+    <text x="200" y="120" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">14.4%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
     <circle cx="30" cy="139" r="5" fill="#e34c26"/>
     <text x="45" y="144" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">HTML</text>
-    <text x="200" y="144" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">8.1%</text>
+    <text x="200" y="144" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">13.5%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
     <circle cx="30" cy="163" r="5" fill="#663399"/>
     <text x="45" y="168" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">CSS</text>
-    <text x="200" y="168" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">2.9%</text>
+    <text x="200" y="168" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">2.8%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
     <circle cx="265" cy="91" r="5" fill="#f1e05a"/>
     <text x="280" y="96" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">JavaScript</text>
-    <text x="435" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">1.9%</text>
+    <text x="435" y="96" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">1.8%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>

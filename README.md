@@ -56,9 +56,9 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤖 Open source — 52 repos de IA listos para ejecutar
+## 🤖 Open source — 57 repos listos para usar
 
-Agentes de IA de todo tipo, RAG, fine-tuning, infraestructura de LLMs, automatización y plantillas.
+Agentes de IA de todo tipo, RAG, fine-tuning, infraestructura de LLMs, servidores MCP, automatización, plantillas — y ahora también animación y diseño web.
 Todo funciona con la **[API gratuita de NVIDIA NIM](https://build.nvidia.com)** (endpoint compatible con OpenAI) o modelos locales con Ollama.
 Cada repo trae README con diagramas, licencia MIT, `.env.example` y código sin stubs.
 
@@ -76,8 +76,18 @@ Cada repo trae README con diagramas, licencia MIT, `.env.example` y código sin 
 </p>
 
 <details>
-<summary><b>📚 Ver el catálogo completo — 52 repos por categoría</b></summary>
+<summary><b>📚 Ver el catálogo completo — 57 repos por categoría</b></summary>
 <br/>
+
+#### Animación y diseño web — demos en vivo
+
+| Repo | Qué contiene |
+|---|---|
+| [css-animation-cookbook](https://github.com/AleBrito124356/css-animation-cookbook) | 31 animaciones CSS puras con gusto: hovers, loaders, texto, transiciones y skeletons — [demos →](https://alebrito124356.github.io/css-animation-cookbook/) |
+| [svg-animation-lab](https://github.com/AleBrito124356/svg-animation-lab) | Iconos animados, line-art con dashoffset, morphs y charts vivos en SMIL y CSS — [demos →](https://alebrito124356.github.io/svg-animation-lab/) |
+| [scroll-story-lab](https://github.com/AleBrito124356/scroll-story-lab) | Reveals, parallax, escenas sticky y scroll-timelines CSS sin JS — [demos →](https://alebrito124356.github.io/scroll-story-lab/) |
+| [easing-playground](https://github.com/AleBrito124356/easing-playground) | Explorador interactivo de easings + sistema de tokens de motion — [demos →](https://alebrito124356.github.io/easing-playground/) |
+| [threejs-hero-collection](https://github.com/AleBrito124356/threejs-hero-collection) | 5 fondos de hero animados con Three.js: partículas, olas, aurora, terreno, orbe — [demos →](https://alebrito124356.github.io/threejs-hero-collection/) |
 
 #### Servidores MCP — superpoderes para tu agente
 
