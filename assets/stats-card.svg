@@ -11,7 +11,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
     <circle cx="31" cy="87" r="4" fill="#3B82F6"/>
     <text x="46" y="92" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="14" fill="#94A3B8">Contribuciones — último año</text>
-    <text x="322" y="92" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#F1F5F9">662</text>
+    <text x="322" y="92" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#F1F5F9">668</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
@@ -44,8 +44,8 @@
       <animate attributeName="stroke-dashoffset" from="301.6" to="0" dur="1.4s" fill="freeze"/>
     </circle>
   </g>
-  <text x="407" y="103" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="26" font-weight="700" fill="#F1F5F9">662</text>
+  <text x="407" y="103" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="26" font-weight="700" fill="#F1F5F9">668</text>
   <text x="407" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="10" fill="#64748B">contribuciones</text>
-  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-09-03</text>
+  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-09-04</text>
   <rect x="0.5" y="0.5" width="494" height="199" rx="13.5" stroke="#1E293B"/>
 </svg>
