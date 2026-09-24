@@ -61,8 +61,8 @@
     <td align="center"><a href="https://alebrito124356.github.io/easing-playground/"><img src="assets/demos/easing.gif" width="248" alt="Explorador interactivo de curvas de easing"/></a><br/><sub><b>Easing playground</b> · 16 curvas</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://alebrito124356.github.io/css-animation-cookbook/loaders.html"><img src="assets/demos/css-loaders.gif" width="248" alt="Loaders animados en CSS puro"/></a><br/><sub><b>Loaders</b> · CSS puro</sub></td>
-    <td align="center"><a href="https://alebrito124356.github.io/svg-animation-lab/line-art.html"><img src="assets/demos/svg-line-art.gif" width="248" alt="Ilustraciones SVG que se dibujan solas"/></a><br/><sub><b>Line art</b> · SVG animado</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/css-animation-cookbook/text.html"><img src="assets/demos/css-text.gif" width="248" alt="Titular con brillo en degradado, en CSS puro"/></a><br/><sub><b>Efectos de texto</b> · CSS puro</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/svg-animation-lab/charts.html"><img src="assets/demos/svg-charts.gif" width="248" alt="Gráficas SVG que se dibujan solas"/></a><br/><sub><b>Charts vivos</b> · SVG animado</sub></td>
     <td align="center"><a href="https://alebrito124356.github.io/scroll-story-lab/pinned-scenes.html"><img src="assets/demos/scroll-story.gif" width="248" alt="Escena sticky de scrollytelling"/></a><br/><sub><b>Scrollytelling</b> · escenas sticky</sub></td>
   </tr>
 </table>

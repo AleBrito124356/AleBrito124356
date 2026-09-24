@@ -15,16 +15,19 @@
  * Requisitos:
  *   - Node 18+ y conexión a internet (graba las demos en vivo).
  *   - ffmpeg con palettegen/paletteuse/xfade en el PATH (o FFMPEG=/ruta/ffmpeg).
- *   - El paquete `playwright` con su Chromium. Lo más simple, desde la raíz:
- *       npm i --no-save playwright && npx playwright install chromium
- *     o reutiliza una instalación existente:
- *       PLAYWRIGHT_MODULE=/ruta/a/node_modules/playwright node scripts/record-demos.mjs
+ *   - Playwright con su Chromium. El repo no tiene package.json: instálalo
+ *     fuera, por ejemplo junto al repo, y pásale la ruta:
+ *       npm i --prefix ../.record-demos playwright
+ *       node ../.record-demos/node_modules/playwright/cli.js install chromium
+ *     (vale cualquier versión; si ya tienes uno instalado, usa esa ruta).
  *
  * Uso (desde la raíz del repo):
- *   node scripts/record-demos.mjs                   # graba los 6 GIF
- *   node scripts/record-demos.mjs aurora easing     # solo esos
- *   node scripts/record-demos.mjs --frames-dir=tmp  # conserva los PNG intermedios
- *   node scripts/record-demos.mjs --no-gpu          # fuerza WebGL por software
+ *   node scripts/record-demos.mjs --playwright=../.record-demos/node_modules/playwright
+ *     graba los 6 GIF (en vez de --playwright= vale la variable PLAYWRIGHT_MODULE,
+ *     o nada si `playwright` se resuelve desde scripts/).
+ *   Opciones: nombres de demo para grabar solo esas (p. ej. `aurora easing`),
+ *   --frames-dir=carpeta para conservar los PNG intermedios, --no-gpu para
+ *   forzar WebGL por software.
  *
  * Para cambiar encuadre, duración o guion de una demo, edita su entrada en DEMOS.
  */
@@ -160,7 +163,9 @@ const DEMOS = [
     maxTick: 70,
     ready: heroReady,
     // Entre t = 56 s y 64 s las cortinas cubren izquierda y centro (barrido de
-    // 0 a 110 s con capturas de prueba).
+    // 0 a 110 s con capturas de prueba, en GPU). Ojo: el hash con sin() del
+    // shader no es portable, así que con --no-gpu (SwiftShader) el dibujo de
+    // la aurora sale distinto y más tenue, aunque igual de fluido.
     setup: async ({ vt }) => { await vt.advance(56_000); },
     // Todo el fondo cambia en cada fotograma: 64 colores bastan (degradados
     // azules oscuros) y dejan el GIF por debajo de 1,2 MB.
@@ -172,14 +177,14 @@ const DEMOS = [
     shows: 'campo de 2.000 partículas con parallax: el puntero describe una elipse',
     viewport: { width: 960, height: 600 },
     clip: { x: 0, y: 0, width: 960, height: 600 },
-    seconds: 4,
+    seconds: (57 * FRAME_MS) / 1000, // 3,99 s: un número entero de fotogramas
     crossfade: 0.5,
     speed: 1.5,
     maxTick: 50,
     ready: heroReady,
-    // Una vuelta de puntero por bucle; se da una vuelta completa antes de
-    // grabar para que la cámara (que persigue al puntero con suavizado) ya
-    // esté en régimen periódico.
+    // Una vuelta de puntero por bucle (periodo = duración exacta del GIF); se
+    // da una vuelta completa antes de grabar para que la cámara, que persigue
+    // al puntero con suavizado, ya esté en régimen periódico.
     pointer(t) {
       const a = (2 * Math.PI * t) / (this.seconds * 1000);
       return { x: 480 + 330 * Math.cos(a), y: 300 + 190 * Math.sin(a) };
@@ -233,32 +238,35 @@ const DEMOS = [
     gif: { dither: 'bayer:bayer_scale=4', statsMode: 'diff' },
   },
   {
-    name: 'css-loaders',
-    url: `${BASE}/css-animation-cookbook/loaders.html`,
-    shows: 'las dos primeras filas de la cuadrícula: seis loaders CSS animándose a la vez',
+    // Primer plano de un solo efecto: los loaders (unos 12 px a 248 px) y la
+    // cuadrícula completa de texto (24 px -> 8 px) no se leían en la galería.
+    // El brillo se mueve todo el ciclo (el revelado por palabras se queda quieto
+    // el 75 % del tiempo). Ciclo de 3 s: 43 fotogramas x 70 ms cierran el bucle.
+    name: 'css-text',
+    url: `${BASE}/css-animation-cookbook/text.html`,
+    shows: 'brillo en degradado que recorre el titular (background-clip: text)',
     viewport: { width: 1280, height: 1040 },
-    clip: { x: 64, y: 302, width: 1152, height: 720 },
-    seconds: 4.2,
-    crossfade: 0.6,
+    clip: { x: 121, y: 406, width: 304, height: 190 },
+    seconds: 3.01,
+    crossfade: 0,
     speed: 1,
     maxTick: 1000 / 60,
     gif: { dither: 'bayer:bayer_scale=4', statsMode: 'diff' },
   },
   {
-    name: 'svg-line-art',
-    url: `${BASE}/svg-animation-lab/line-art.html`,
-    shows: 'la cuadrícula completa dibujándose al cargar (firma, gema, divisor, constelación) y el borde que se traza al pasar el ratón',
+    // Se graba charts.html y no line-art.html: a ~250 px los trazos finos de
+    // line-art casi desaparecen, y las barras, el anillo y la línea de charts
+    // se leen de un vistazo. (Para volver a line-art.html: clip { x: 40, y: 234,
+    // width: 1200, height: 750 } y mover el ratón a '.hovercard' en t = 1050 ms.)
+    name: 'svg-charts',
+    url: `${BASE}/svg-animation-lab/charts.html`,
+    shows: 'charts que se dibujan al cargar: barras SMIL escalonadas, línea que se traza con su área, anillo al 72 % y sparkline con pulso',
     viewport: { width: 1280, height: 1000 },
-    clip: { x: 40, y: 234, width: 1200, height: 750 },
+    clip: { x: 100, y: 222, width: 1080, height: 675 },
     seconds: 4.2,
     crossfade: 0.6,
     speed: 1,
     maxTick: 1000 / 60,
-    async frame({ page, t }) {
-      if (t !== 1050) return; // a mitad del trazado, "pasa el ratón" por la tarjeta
-      const p = await centerOf(page, '.hovercard');
-      await page.mouse.move(p.x, p.y);
-    },
     gif: { dither: 'bayer:bayer_scale=4', statsMode: 'diff' },
   },
   {
@@ -307,14 +315,14 @@ const DEMOS = [
 /* ------------------------------------------------------------------------ */
 /* Grabación                                                                  */
 /* ------------------------------------------------------------------------ */
-function loadPlaywright() {
-  const candidates = [process.env.PLAYWRIGHT_MODULE, 'playwright', 'playwright-core'].filter(Boolean);
+function loadPlaywright(explicit) {
+  const custom = explicit || process.env.PLAYWRIGHT_MODULE;
+  const candidates = custom ? [path.resolve(custom)] : ['playwright', 'playwright-core'];
   for (const id of candidates) {
     try { return require(id); } catch { /* siguiente */ }
   }
-  console.error('No encuentro Playwright. Instálalo con:\n' +
-    '  npm i --no-save playwright && npx playwright install chromium\n' +
-    'o define PLAYWRIGHT_MODULE=/ruta/a/node_modules/playwright');
+  console.error(`No encuentro Playwright${custom ? ` en ${path.resolve(custom)}` : ''}.\n` +
+    'Mira la cabecera de scripts/record-demos.mjs para instalarlo sin tocar el repo.');
   process.exit(1);
 }
 
@@ -403,8 +411,8 @@ function encodeGif(demo, framesDir, captured, outFile) {
 async function main() {
   const argv = process.argv.slice(2);
   const flags = new Map(argv.filter((a) => a.startsWith('--')).map((a) => {
-    const [k, v] = a.slice(2).split('=');
-    return [k, v ?? true];
+    const eq = a.indexOf('=');
+    return eq < 0 ? [a.slice(2), true] : [a.slice(2, eq), a.slice(eq + 1)];
   }));
   const only = argv.filter((a) => !a.startsWith('--'));
   const selected = only.length ? DEMOS.filter((d) => only.includes(d.name)) : DEMOS;
@@ -423,7 +431,7 @@ async function main() {
   const gpuArgs = flags.has('no-gpu')
     ? []
     : ['--ignore-gpu-blocklist', '--enable-gpu', ...(process.platform === 'win32' ? ['--use-angle=d3d11'] : [])];
-  const { chromium } = loadPlaywright();
+  const { chromium } = loadPlaywright(typeof flags.get('playwright') === 'string' ? flags.get('playwright') : null);
   const browser = await chromium.launch({ args: gpuArgs });
   try {
     for (const demo of selected) {
