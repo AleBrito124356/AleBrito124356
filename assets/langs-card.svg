@@ -3,11 +3,11 @@
   <text x="25" y="36" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">Lenguajes más usados</text>
   <clipPath id="bar"><rect x="25" y="54" width="445.0" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.0" y="54" width="336.7" height="10" fill="#3572A5"/>
-    <rect x="360.7" y="54" width="45.2" height="10" fill="#e34c26"/>
-    <rect x="404.9" y="54" width="37.9" height="10" fill="#38BDF8"/>
-    <rect x="441.7" y="54" width="17.0" height="10" fill="#f1e05a"/>
-    <rect x="457.7" y="54" width="11.2" height="10" fill="#663399"/>
+    <rect x="25.0" y="54" width="336.3" height="10" fill="#3572A5"/>
+    <rect x="360.3" y="54" width="45.0" height="10" fill="#e34c26"/>
+    <rect x="404.3" y="54" width="37.7" height="10" fill="#38BDF8"/>
+    <rect x="441.1" y="54" width="17.7" height="10" fill="#f1e05a"/>
+    <rect x="457.8" y="54" width="11.2" height="10" fill="#663399"/>
     <rect x="468.0" y="54" width="2.2" height="10" fill="#89e051"/>
     <rect x="469.1" y="54" width="445.0" height="10" fill="#1E293B"/>
   </g>
@@ -33,7 +33,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
     <circle cx="265" cy="95" r="5" fill="#f1e05a"/>
     <text x="280" y="100" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">JavaScript</text>
-    <text x="435" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">3.6%</text>
+    <text x="435" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">3.7%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
