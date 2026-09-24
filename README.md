@@ -3,10 +3,10 @@
 </a>
 
 <p align="center">
-  <a href="https://alejandrobrito.dev"><img src="https://img.shields.io/badge/Portfolio-alejandrobrito.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0D14" alt="Portfolio"/></a>&nbsp;
+  <a href="https://alejandrobrito.dev"><img src="https://img.shields.io/badge/alejandrobrito.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: alejandrobrito.dev"/></a>&nbsp;
   <a href="mailto:alejandrobritoolivera@gmail.com"><img src="https://img.shields.io/badge/Email-escríbeme-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0A0D14" alt="Email"/></a>&nbsp;
   <a href="https://morph-zeta.vercel.app"><img src="https://img.shields.io/badge/Morph-EN_VIVO-8B5CF6?style=for-the-badge&labelColor=0A0D14" alt="Morph en vivo"/></a>&nbsp;
-  <a href="https://github.com/AleBrito124356/mcp-secret-sentinel"><img src="https://img.shields.io/badge/Servidores_MCP-5_open_source-2563EB?style=for-the-badge&labelColor=0A0D14" alt="Servidores MCP open source"/></a>
+  <a href="https://github.com/AleBrito124356/mcp-secret-sentinel"><img src="https://img.shields.io/badge/MCP-5_servidores-2563EB?style=for-the-badge&labelColor=0A0D14" alt="5 servidores MCP open source"/></a>
 </p>
 
 <p align="center">
@@ -21,14 +21,8 @@
 <div align="center">
   <img width="49%" src="assets/stats-card.svg" alt="Estadísticas de GitHub"/>
   <img width="49%" src="assets/langs-card.svg" alt="Lenguajes más usados"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AleBrito124356&locale=es&background=0A0D14&border=1E293B&border_radius=12&ring=3B82F6&fire=60A5FA&currStreakNum=F1F5F9&currStreakLabel=60A5FA&sideNums=F1F5F9&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="Racha de contribuciones"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleBrito124356&custom_title=Actividad%20del%20%C3%BAltimo%20a%C3%B1o&bg_color=0A0D14&color=94A3B8&line=3B82F6&point=93C5FD&area=true&area_color=1E3A8A&hide_border=true&radius=16" width="100%" alt="Gráfico de actividad"/>
+  <img width="49%" src="assets/streak-card.svg" alt="Racha de contribuciones"/>
+  <img width="49%" src="assets/activity-card.svg" alt="Actividad de los últimos 30 días"/>
 </div>
 <br/>
 <div align="center">
@@ -53,6 +47,27 @@
 | **SIMANLLA / FENIX** | ERP de mantenimiento y call-center para Elevadores Goldstar — React 19 · PHP · Fenris IA |
 | **Card Control** | Control de tarjetas corporativas para Castro & Castro — Next.js · MySQL |
 | **CUSTOUTP** | Sistema de gestión de incidencias para la UTP — Next.js · Supabase · Expo |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🎨 Demos en vivo
+
+<p align="center">Animación y diseño web sin dependencias. Toca cualquiera para abrir la demo.</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://alebrito124356.github.io/threejs-hero-collection/aurora.html"><img src="assets/demos/aurora.gif" width="248" alt="Aurora animada con un shader GLSL en Three.js"/></a><br/><sub><b>Aurora</b> · shader GLSL</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/threejs-hero-collection/particles.html"><img src="assets/demos/particles.gif" width="248" alt="Campo de partículas con Three.js"/></a><br/><sub><b>Partículas</b> · three.js</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/easing-playground/"><img src="assets/demos/easing.gif" width="248" alt="Explorador interactivo de curvas de easing"/></a><br/><sub><b>Easing playground</b> · 16 curvas</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://alebrito124356.github.io/css-animation-cookbook/loaders.html"><img src="assets/demos/css-loaders.gif" width="248" alt="Loaders animados en CSS puro"/></a><br/><sub><b>Loaders</b> · CSS puro</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/svg-animation-lab/line-art.html"><img src="assets/demos/svg-line-art.gif" width="248" alt="Ilustraciones SVG que se dibujan solas"/></a><br/><sub><b>Line art</b> · SVG animado</sub></td>
+    <td align="center"><a href="https://alebrito124356.github.io/scroll-story-lab/pinned-scenes.html"><img src="assets/demos/scroll-story.gif" width="248" alt="Escena sticky de scrollytelling"/></a><br/><sub><b>Scrollytelling</b> · escenas sticky</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Código: <a href="https://github.com/AleBrito124356/threejs-hero-collection">threejs-hero-collection</a> · <a href="https://github.com/AleBrito124356/easing-playground">easing-playground</a> · <a href="https://github.com/AleBrito124356/css-animation-cookbook">css-animation-cookbook</a> · <a href="https://github.com/AleBrito124356/svg-animation-lab">svg-animation-lab</a> · <a href="https://github.com/AleBrito124356/scroll-story-lab">scroll-story-lab</a></sub></p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
