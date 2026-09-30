@@ -3,50 +3,50 @@
   <text x="25" y="36" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">Lenguajes más usados</text>
   <clipPath id="bar"><rect x="25" y="54" width="445.0" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.0" y="54" width="336.3" height="10" fill="#3572A5"/>
-    <rect x="360.3" y="54" width="45.0" height="10" fill="#e34c26"/>
-    <rect x="404.3" y="54" width="37.7" height="10" fill="#38BDF8"/>
-    <rect x="441.1" y="54" width="17.7" height="10" fill="#f1e05a"/>
-    <rect x="457.8" y="54" width="11.2" height="10" fill="#663399"/>
-    <rect x="468.0" y="54" width="2.2" height="10" fill="#89e051"/>
-    <rect x="469.1" y="54" width="445.0" height="10" fill="#1E293B"/>
+    <rect x="25.0" y="54" width="316.9" height="10" fill="#3572A5"/>
+    <rect x="340.9" y="54" width="55.7" height="10" fill="#e34c26"/>
+    <rect x="395.6" y="54" width="35.6" height="10" fill="#38BDF8"/>
+    <rect x="430.2" y="54" width="26.1" height="10" fill="#f1e05a"/>
+    <rect x="455.2" y="54" width="13.8" height="10" fill="#663399"/>
+    <rect x="468.1" y="54" width="2.1" height="10" fill="#89e051"/>
+    <rect x="469.2" y="54" width="445.0" height="10" fill="#1E293B"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
     <circle cx="30" cy="95" r="5" fill="#3572A5"/>
     <text x="45" y="100" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Python</text>
-    <text x="200" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">75.4%</text>
+    <text x="200" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">71.0%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
     <circle cx="30" cy="121" r="5" fill="#e34c26"/>
     <text x="45" y="126" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">HTML</text>
-    <text x="200" y="126" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">9.9%</text>
+    <text x="200" y="126" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">12.3%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
     <circle cx="30" cy="147" r="5" fill="#38BDF8"/>
     <text x="45" y="152" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">TypeScript</text>
-    <text x="200" y="152" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">8.3%</text>
+    <text x="200" y="152" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">7.8%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
     <circle cx="265" cy="95" r="5" fill="#f1e05a"/>
     <text x="280" y="100" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">JavaScript</text>
-    <text x="435" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">3.7%</text>
+    <text x="435" y="100" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">5.6%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
     <circle cx="265" cy="121" r="5" fill="#663399"/>
     <text x="280" y="126" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">CSS</text>
-    <text x="435" y="126" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">2.3%</text>
+    <text x="435" y="126" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">2.9%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
     <circle cx="265" cy="147" r="5" fill="#89e051"/>
     <text x="280" y="152" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13.5" fill="#CBD5E1">Shell</text>
-    <text x="435" y="152" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">0.3%</text>
+    <text x="435" y="152" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="12.5" fill="#64748B">0.2%</text>
   </g>
-  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-09-29</text>
+  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-09-30</text>
   <rect x="0.5" y="0.5" width="494" height="199" rx="13.5" stroke="#1E293B"/>
 </svg>
