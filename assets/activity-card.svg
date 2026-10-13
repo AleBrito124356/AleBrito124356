@@ -1,7 +1,7 @@
 <svg width="495" height="200" viewBox="0 0 495 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Actividad de los últimos 30 días de Alejandro Brito">
   <rect width="495" height="200" rx="14" fill="#0A0D14"/>
   <text x="25" y="36" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="17" font-weight="700" fill="#60A5FA">Actividad — últimos 30 días</text>
-  <text x="470" y="36" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13" fill="#94A3B8"><tspan font-family="'Cascadia Code', Consolas, Menlo, monospace" font-weight="700" fill="#F1F5F9">553</tspan> contribuciones</text>
+  <text x="470" y="36" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="13" fill="#94A3B8"><tspan font-family="'Cascadia Code', Consolas, Menlo, monospace" font-weight="700" fill="#F1F5F9">554</tspan> contribuciones</text>
   <defs>
     <linearGradient id="activity-fill" x1="0" y1="62.0" x2="0" y2="150.0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#2563EB" stop-opacity="0.45"/>
@@ -13,78 +13,81 @@
   <line x1="50" y1="150" x2="470" y2="150" stroke="#1E293B"/>
   <text x="42" y="153.5" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#64748B">0</text>
   <line x1="50.0" y1="150" x2="50.0" y2="154" stroke="#1E293B"/>
-  <text x="50.0" y="168" text-anchor="start" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">13 sept</text>
+  <text x="50.0" y="168" text-anchor="start" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">14 sept</text>
   <line x1="267.2" y1="150" x2="267.2" y2="154" stroke="#1E293B"/>
-  <text x="267.2" y="168" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">28 sept</text>
+  <text x="267.2" y="168" text-anchor="middle" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">29 sept</text>
   <line x1="470.0" y1="150" x2="470.0" y2="154" stroke="#1E293B"/>
-  <text x="470.0" y="168" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">12 oct</text>
-  <path d="M50.0,150.0 C52.4,149.5 59.7,147.2 64.5,147.1 C69.3,146.9 74.1,148.8 79.0,149.3 C83.8,149.8 88.6,150.0 93.4,150.0 C98.3,150.0 103.1,149.3 107.9,149.3 C112.8,149.3 117.6,149.9 122.4,150.0 C127.2,150.0 132.1,150.0 136.9,150.0 C141.7,149.0 146.6,144.2 151.4,144.1 C156.2,144.0 161.0,148.9 165.9,149.6 C170.7,150.0 175.5,150.0 180.3,148.5 C185.2,133.9 190.0,62.0 194.8,62.0 C199.7,62.0 204.5,133.9 209.3,148.5 C214.1,150.0 219.0,149.8 223.8,150.0 C228.6,150.0 233.4,150.0 238.3,150.0 C243.1,150.0 247.9,150.0 252.8,150.0 C257.6,149.0 262.4,148.3 267.2,144.1 C272.1,139.9 276.9,127.7 281.7,124.6 C286.6,121.5 291.4,126.5 296.2,125.7 C301.0,124.9 305.9,116.9 310.7,119.8 C315.5,122.8 320.3,138.4 325.2,143.4 C330.0,148.3 334.8,148.5 339.7,149.6 C344.5,150.0 349.3,150.0 354.1,150.0 C359.0,149.8 363.8,149.2 368.6,148.5 C373.4,147.9 378.3,146.1 383.1,145.9 C387.9,145.8 392.8,146.8 397.6,147.4 C402.4,148.0 407.2,149.3 412.1,149.6 C416.9,150.0 421.7,149.6 426.6,149.6 C431.4,149.7 436.2,150.0 441.0,150.0 C445.9,150.0 450.7,149.6 455.5,149.6 C460.3,149.6 467.6,149.9 470.0,150.0 L470.0,150.0 L50.0,150.0 Z" fill="url(#activity-fill)" opacity="0">
+  <text x="470.0" y="168" text-anchor="end" font-family="'Segoe UI', -apple-system, Ubuntu, Roboto, sans-serif" font-size="11" fill="#64748B">13 oct</text>
+  <path d="M50.0,147.1 C52.4,147.4 59.7,148.8 64.5,149.3 C69.3,149.8 74.1,150.0 79.0,150.0 C83.8,150.0 88.6,149.3 93.4,149.3 C98.3,149.3 103.1,149.9 107.9,150.0 C112.8,150.0 117.6,150.0 122.4,150.0 C127.2,149.0 132.1,144.2 136.9,144.1 C141.7,144.0 146.6,148.9 151.4,149.6 C156.2,150.0 161.0,150.0 165.9,148.5 C170.7,133.9 175.5,62.0 180.3,62.0 C185.2,62.0 190.0,133.9 194.8,148.5 C199.7,150.0 204.5,149.8 209.3,150.0 C214.1,150.0 219.0,150.0 223.8,150.0 C228.6,150.0 233.4,150.0 238.3,150.0 C243.1,149.0 247.9,148.3 252.8,144.1 C257.6,139.9 262.4,127.7 267.2,124.6 C272.1,121.5 276.9,126.5 281.7,125.7 C286.6,124.9 291.4,116.9 296.2,119.8 C301.0,122.8 305.9,138.4 310.7,143.4 C315.5,148.3 320.3,148.5 325.2,149.6 C330.0,150.0 334.8,150.0 339.7,150.0 C344.5,149.8 349.3,149.2 354.1,148.5 C359.0,147.9 363.8,146.1 368.6,145.9 C373.4,145.8 378.3,146.8 383.1,147.4 C387.9,148.0 392.8,149.3 397.6,149.6 C402.4,150.0 407.2,149.6 412.1,149.6 C416.9,149.7 421.7,150.0 426.6,150.0 C431.4,150.0 436.2,149.6 441.0,149.6 C445.9,149.6 450.7,150.0 455.5,150.0 C460.3,150.0 467.6,149.7 470.0,149.6 L470.0,150.0 L50.0,150.0 Z" fill="url(#activity-fill)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.2s" fill="freeze"/>
   </path>
-  <path d="M50.0,150.0 C52.4,149.5 59.7,147.2 64.5,147.1 C69.3,146.9 74.1,148.8 79.0,149.3 C83.8,149.8 88.6,150.0 93.4,150.0 C98.3,150.0 103.1,149.3 107.9,149.3 C112.8,149.3 117.6,149.9 122.4,150.0 C127.2,150.0 132.1,150.0 136.9,150.0 C141.7,149.0 146.6,144.2 151.4,144.1 C156.2,144.0 161.0,148.9 165.9,149.6 C170.7,150.0 175.5,150.0 180.3,148.5 C185.2,133.9 190.0,62.0 194.8,62.0 C199.7,62.0 204.5,133.9 209.3,148.5 C214.1,150.0 219.0,149.8 223.8,150.0 C228.6,150.0 233.4,150.0 238.3,150.0 C243.1,150.0 247.9,150.0 252.8,150.0 C257.6,149.0 262.4,148.3 267.2,144.1 C272.1,139.9 276.9,127.7 281.7,124.6 C286.6,121.5 291.4,126.5 296.2,125.7 C301.0,124.9 305.9,116.9 310.7,119.8 C315.5,122.8 320.3,138.4 325.2,143.4 C330.0,148.3 334.8,148.5 339.7,149.6 C344.5,150.0 349.3,150.0 354.1,150.0 C359.0,149.8 363.8,149.2 368.6,148.5 C373.4,147.9 378.3,146.1 383.1,145.9 C387.9,145.8 392.8,146.8 397.6,147.4 C402.4,148.0 407.2,149.3 412.1,149.6 C416.9,150.0 421.7,149.6 426.6,149.6 C431.4,149.7 436.2,150.0 441.0,150.0 C445.9,150.0 450.7,149.6 455.5,149.6 C460.3,149.6 467.6,149.9 470.0,150.0" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        stroke-dasharray="614.0 614.0" stroke-dashoffset="614.0">
-    <animate attributeName="stroke-dashoffset" from="614.0" to="0" dur="1.8s" fill="freeze"/>
+  <path d="M50.0,147.1 C52.4,147.4 59.7,148.8 64.5,149.3 C69.3,149.8 74.1,150.0 79.0,150.0 C83.8,150.0 88.6,149.3 93.4,149.3 C98.3,149.3 103.1,149.9 107.9,150.0 C112.8,150.0 117.6,150.0 122.4,150.0 C127.2,149.0 132.1,144.2 136.9,144.1 C141.7,144.0 146.6,148.9 151.4,149.6 C156.2,150.0 161.0,150.0 165.9,148.5 C170.7,133.9 175.5,62.0 180.3,62.0 C185.2,62.0 190.0,133.9 194.8,148.5 C199.7,150.0 204.5,149.8 209.3,150.0 C214.1,150.0 219.0,150.0 223.8,150.0 C228.6,150.0 233.4,150.0 238.3,150.0 C243.1,149.0 247.9,148.3 252.8,144.1 C257.6,139.9 262.4,127.7 267.2,124.6 C272.1,121.5 276.9,126.5 281.7,125.7 C286.6,124.9 291.4,116.9 296.2,119.8 C301.0,122.8 305.9,138.4 310.7,143.4 C315.5,148.3 320.3,148.5 325.2,149.6 C330.0,150.0 334.8,150.0 339.7,150.0 C344.5,149.8 349.3,149.2 354.1,148.5 C359.0,147.9 363.8,146.1 368.6,145.9 C373.4,145.8 378.3,146.8 383.1,147.4 C387.9,148.0 392.8,149.3 397.6,149.6 C402.4,150.0 407.2,149.6 412.1,149.6 C416.9,149.7 421.7,150.0 426.6,150.0 C431.4,150.0 436.2,149.6 441.0,149.6 C445.9,149.6 450.7,150.0 455.5,150.0 C460.3,150.0 467.6,149.7 470.0,149.6" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        stroke-dasharray="613.6 613.6" stroke-dashoffset="613.6">
+    <animate attributeName="stroke-dashoffset" from="613.6" to="0" dur="1.8s" fill="freeze"/>
   </path>
-  <circle cx="64.5" cy="147.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="50.0" cy="147.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.25s" fill="freeze"/>
+  </circle>
+  <circle cx="64.5" cy="149.3" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.04s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="79.0" cy="149.3" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.09s" dur="0.25s" fill="freeze"/>
+  <circle cx="93.4" cy="149.3" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="107.9" cy="149.3" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.17s" dur="0.25s" fill="freeze"/>
+  <circle cx="136.9" cy="144.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="151.4" cy="144.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.25s" fill="freeze"/>
+  <circle cx="151.4" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.31s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="165.9" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="165.9" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="180.3" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.25s" fill="freeze"/>
+  <circle cx="180.3" cy="62.0" r="3.4" fill="#60A5FA" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.61s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="194.8" cy="62.0" r="3.4" fill="#60A5FA" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.25s" fill="freeze"/>
+  <circle cx="194.8" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="209.3" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.91s" dur="0.25s" fill="freeze"/>
+  <circle cx="252.8" cy="144.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="267.2" cy="144.1" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.25s" fill="freeze"/>
+  <circle cx="267.2" cy="124.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.11s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="281.7" cy="124.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.25s" fill="freeze"/>
+  <circle cx="281.7" cy="125.7" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.16s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="296.2" cy="125.7" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="296.2" cy="119.8" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="310.7" cy="119.8" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.25s" fill="freeze"/>
+  <circle cx="310.7" cy="143.4" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.29s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="325.2" cy="143.4" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="325.2" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.33s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="339.7" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.37s" dur="0.25s" fill="freeze"/>
+  <circle cx="354.1" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.42s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="368.6" cy="148.5" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="368.6" cy="145.9" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="383.1" cy="145.9" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="383.1" cy="147.4" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="397.6" cy="147.4" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+  <circle cx="397.6" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.25s" fill="freeze"/>
   </circle>
   <circle cx="412.1" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.59s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="426.6" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.63s" dur="0.25s" fill="freeze"/>
+  <circle cx="441.0" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.25s" fill="freeze"/>
   </circle>
-  <circle cx="455.5" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.72s" dur="0.25s" fill="freeze"/>
+  <circle cx="470.0" cy="149.6" r="2.4" fill="#93C5FD" stroke="#0A0D14" stroke-width="1.2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.76s" dur="0.25s" fill="freeze"/>
   </circle>
-  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-10-12</text>
+  <text x="470" y="188" text-anchor="end" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="10" fill="#31415C">actualizado 2026-10-13</text>
   <rect x="0.5" y="0.5" width="494" height="199" rx="13.5" stroke="#1E293B"/>
 </svg>
